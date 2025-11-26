@@ -1,0 +1,12 @@
+C++ implementations using STL Associative Containers to manage data efficiently:
+Unique Word Analyzer (Part 1): utilizes a std::set to read a text file and automatically filter and display all non-duplicate words in ascending order.
+State Capital Lookup (Part 2): utilizes a std::map to store pairs of all 50 U.S. states and their capitals, providing an efficient lookup mechanism (O(logn)) for user queries.
+
+Prerequisites
+A C++ compiler (e.g., g++, clang, MSVC) that supports C++11 or later.
+Basic understanding of C++ classes, templates, pointers, and object-oriented programming concepts.
+Build and Run Instructions
+The provided source code is structured into header (.h) files for class definitions and a main driver file (main.cpp) for testing.
+The provided source code is structured into header (.h) files for class definitions, implementation (.cpp) files for class logic, and a main driver file (main.cpp).
+Run the program
+Follow the on-screen prompts to enter a filename for Part 1 and query state capitals for Part 2.
